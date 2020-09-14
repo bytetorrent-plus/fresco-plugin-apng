@@ -1,0 +1,3 @@
+include ':apng'
+include ':app'
+rootProject.name = "fresco-plugin-apng"
